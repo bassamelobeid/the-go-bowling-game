@@ -1,4 +1,4 @@
-# the-go-bowling-game
+# The go bowling game
 This is a simulation of the Bowling Game created using the Go programming language.
 
 I am basing this project on the Bowling Game Kata by Uncle Bob Martin. The rules of the game are as follows:
